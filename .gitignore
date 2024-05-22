@@ -1,0 +1,21 @@
+# 로그 파일
+*.log
+
+# 디렉토리
+node_modules/
+dist/
+build/
+
+# 환경 설정 파일
+.env
+
+# MacOS 시스템 파일
+.DS_Store
+
+# IDE 설정 파일
+.idea/
+.vscode/
+
+# Windows 시스템 파일
+Thumbs.db
+Desktop.ini
